@@ -1,0 +1,2 @@
+runtime: java11
+entrypoint: java -noverify -jar demo-0.0.1-SNAPSHOT.jar
